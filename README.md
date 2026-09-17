@@ -25,8 +25,27 @@ En general, disfruto trabajar en el diseño de arquitecturas por capas (controla
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## ☁️ AWS
+
+AWS es la nube con la que más trabajo y disfruto trabajar. La uso en el día a día para despliegues containerizados (build de imagen → push a ECR → despliegue en Elastic Beanstalk), gestión de datos con RDS y control de acceso/permisos con IAM. También he explorado Bedrock como puerta de entrada a IA generativa dentro del ecosistema AWS.
+
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM%20%2F%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amplify](https://img.shields.io/badge/AWS%20Amplify-232F3E?style=for-the-badge&logo=awsamplify&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lightsail](https://img.shields.io/badge/Lightsail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 📊 Estadísticas
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=moisesNGG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=moisesNGG&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesNGG&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Contacto
 
