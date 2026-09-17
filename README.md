@@ -1,4 +1,4 @@
-# ¡Hola! Soy Moisés 
+# ¡Hola! Soy Moisés
 
 Desarrollador de software enfocado en construir aplicaciones web robustas, desde el backend hasta la experiencia de usuario final.
 
@@ -26,7 +26,7 @@ En general, disfruto trabajar en el diseño de arquitecturas por capas (controla
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## ☁️ AWS
+## AWS
 
 AWS es la nube con la que más trabajo y disfruto trabajar. La uso en el día a día para despliegues containerizados (build de imagen → push a ECR → despliegue en Elastic Beanstalk), gestión de datos con RDS y control de acceso/permisos con IAM. También he explorado Bedrock como puerta de entrada a IA generativa dentro del ecosistema AWS.
 
@@ -41,12 +41,6 @@ AWS es la nube con la que más trabajo y disfruto trabajar. La uso en el día a 
 ![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lightsail](https://img.shields.io/badge/Lightsail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=moisesNGG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Racha de contribuciones](https://streak-stats.demolab.com/?user=moisesNGG&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesNGG&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Contacto
 
-📧 moisestroya7@gmail.com
+moisestroya7@gmail.com
