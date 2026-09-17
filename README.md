@@ -1,4 +1,4 @@
-# ¡Hola! Soy Moisés 👋
+# ¡Hola! Soy Moisés 
 
 Desarrollador de software enfocado en construir aplicaciones web robustas, desde el backend hasta la experiencia de usuario final.
 
